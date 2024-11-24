@@ -11,7 +11,7 @@ This dashboard is created on Grafana with a Kaggle dataset streamed via InfluxDB
 >
 > Phalit Gupta (045040)
 
-##**Dataset Description**
+## **Dataset Description**
 
 
 ---
@@ -38,10 +38,6 @@ It captures transaction-specific information, including `transaction ID`, last p
 > ***NOTE:*** *The dataset contains some null values and duplicate entries, which have been handled during the preprocessing stage.*
 
 ## **Tags & Fields**
-
-
----
-
 
 The following are the Tag keys:
 * `City`
@@ -71,12 +67,7 @@ The following are the Field keys:
 * `Total_Amount`
 * `Age`
 
-##**Objectives**
-
-
----
-
-
+## **Objectives**
 
 
 1. Track overall business performance by monitoring key metrics like total purchases, revenue, and active customers in real-time to assess business health.
