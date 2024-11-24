@@ -4,13 +4,12 @@ This dashboard is created on Grafana with a Kaggle dataset streamed via InfluxDB
 
 
 
-**Created by:  SDA 1 - Group 13**
->
-> Himanshi Saxena (045019)
->
-> Jasleen Kaur Chadha (045023)
->
-> Phalit Gupta (045040)
+## Contributing
+
+This project is the result of a collaborative effort between Jasleen Kaur Chadha (https://github.com/Jasleen045023) and Phalit Gupta (https://github.com/Phalit045040), with valuable guidance from Prof. Ashok Harnal. 
+
+
+
 
 ## **Dataset Description**
 
@@ -272,4 +271,10 @@ Product-wise sales and shipping method preferences inform inventory planning and
 
 A tailored approach to customer engagement, including gender-specific campaigns and leveraging peak transaction times, can further boost sales. By combining these strategies with data-driven decision-making, businesses can effectively navigate market dynamics and achieve sustainable growth.
 
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
