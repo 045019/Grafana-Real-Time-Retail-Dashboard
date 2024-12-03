@@ -6,7 +6,7 @@ This dashboard is created on Grafana with a Kaggle dataset streamed via InfluxDB
 
 ## Contributing
 
-This project is the result of a collaborative effort between [Jasleen Kaur Chadha](https://github.com/Jasleen045023) and [Phalit Gupta](https://github.com/Phalit045040) and me, with valuable guidance from Prof. Ashok Harnal. 
+This project is the result of a collaborative effort between [Jasleen Kaur Chadha](https://github.com/Jasleen045023), [Phalit Gupta](https://github.com/Phalit045040) and me, with valuable guidance from Prof. Ashok Harnal. 
 
 
 
