@@ -55,7 +55,7 @@ The following are the Tag keys:
 * `Shipping_Method`
 * `Payment_Method`
 * `Order_Status`
-* * `Transaction_ID`
+* `Transaction_ID`
 * `Customer_ID`
 * `Zipcode`
 * `Ratings`
